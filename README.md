@@ -1,2 +1,2 @@
 # VetCare
- Login & Register Android Studio + FireBase // Correo & Contraseña
+ LOGIN AND REGISTER IN ANDROID STUDIO + FIREBASE
