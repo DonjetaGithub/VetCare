@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/dev/VetCare/app/src/main/res/drawable/custom_email_icon.xml" value="0.3609375" />
+        <entry key="..\:/Documents/dev/VetCare/app/src/main/res/layout/activity_dash_board.xml" value="0.34479166666666666" />
+        <entry key="..\:/Documents/dev/VetCare/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Documents/dev/VetCare/app/src/main/res/layout/activity_main.xml" value="0.34479166666666666" />
+        <entry key="..\:/Documents/dev/VetCare/app/src/main/res/layout/activity_register.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable/custom_email_icon.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable/custom_input.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable/custom_lock_icon.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable/custom_person_icon.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable/custom_phone_icon.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable/ic_cats.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable/ic_lock.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable/ic_lock_focused.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable/ic_mail_focused.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/drawable/ic_undraw_pet_adoption_2qkw_1.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/layout/activity_dash_board.xml" value="0.209375" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/layout/activity_register.xml" value="0.209375" />
+        <entry key="..\:/Users/donad/Desktop/VetCare-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22552083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
